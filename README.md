@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Farooq (@mfarooqnuces)
 - 👀 I’m interested in Javascript, .Net & Blockchain.
-- 🌱 I’m currently learning in Javascript & blockchain.
+- 🌱 I’m currently learning Javascript, Angular and .Net 8.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
